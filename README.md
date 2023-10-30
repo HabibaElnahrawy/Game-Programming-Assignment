@@ -1,1 +1,1 @@
-# Game-Programming-Assignment using Unity 
+# Game Programming Assignment using Unity 
